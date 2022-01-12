@@ -1,0 +1,25 @@
+{
+  "name": "ecz-api-impl-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "0.66.4"
+  },
+  "dependencies": {
+    "ecz-api": "1.0.1"
+  },
+  "ern": {
+    "containerGen": {
+      "hasConfig": false,
+      "moduleName": "EczApiImplJs",
+      "apiNames": [
+        "WalmartItem"
+      ]
+    },
+    "moduleType": "ern-js-api-impl"
+  },
+  "keywords": [
+    "ern-js-api-impl"
+  ]
+}
